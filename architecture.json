@@ -1,0 +1,62 @@
+{
+  "book_id": "modernist-european-minimalist-love-mortality",
+  "title": "The Geometry of a Silent Heart",
+  "tagline": "A man who designs invisible systems confronts the silent, turbulent architecture of love and loss in a city of grey rain and quiet rooms.",
+  "target_words": 82016,
+  "actual_words": 82016,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Isolation",
+    "Love as an Invisible System",
+    "The Precision of Memory and Loss",
+    "Mortality in the Mundane"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Silver Needle, The Grey Lake",
+      "words": 9112
+    },
+    {
+      "ch": 2,
+      "title": "A White Box Overlooking the Rhône",
+      "words": 9112
+    },
+    {
+      "ch": 3,
+      "title": "Tools of Borrowed Anatomy",
+      "words": 9112
+    },
+    {
+      "ch": 4,
+      "title": "The Geometry of the Courtyard",
+      "words": 9112
+    },
+    {
+      "ch": 5,
+      "title": "A Bead at the Needle's Tip",
+      "words": 9112
+    },
+    {
+      "ch": 6,
+      "title": "Capillaries of the Countryside",
+      "words": 9112
+    },
+    {
+      "ch": 7,
+      "title": "The Glow of a Weak, Living Heart",
+      "words": 9112
+    },
+    {
+      "ch": 8,
+      "title": "A Pale Scar on the Hill",
+      "words": 9112
+    },
+    {
+      "ch": 9,
+      "title": "The Cathedral of Silence",
+      "words": 9112
+    }
+  ]
+}
